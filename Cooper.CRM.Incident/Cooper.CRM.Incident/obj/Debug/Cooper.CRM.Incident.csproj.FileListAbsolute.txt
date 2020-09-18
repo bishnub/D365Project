@@ -1,0 +1,11 @@
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Cooper.CRM.Incident.dll
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Cooper.CRM.Incident.pdb
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\obj\Debug\Cooper.CRM.Incident.csprojAssemblyReference.cache
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\obj\Debug\Cooper.CRM.Incident.csproj.CoreCompileInputs.cache
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\obj\Debug\Cooper.CRM.Incident.csproj.CopyComplete
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\obj\Debug\Cooper.CRM.Incident.dll
+C:\Users\bishnu.kumar\source\repos\Cooper.CRM.Incident\Cooper.CRM.Incident\obj\Debug\Cooper.CRM.Incident.pdb
